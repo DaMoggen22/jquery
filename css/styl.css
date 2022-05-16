@@ -1,0 +1,39 @@
+h2 {
+    font-family: Arial;
+    text-align: center;
+}
+
+#container{
+    width: 700px;
+    margin: 0 auto;
+}
+
+#page {
+    font-size: 150%;
+    text-algin: center;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+ul {
+    margin: 20px;
+    list-style-image: url('../graphics/kaczka.gif')
+}
+
+li {
+    padding: 5px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+.inny_link {
+    background-color : orange;
+}
+.jeszcze_inny_link {
+    background-color: blue;
+}
